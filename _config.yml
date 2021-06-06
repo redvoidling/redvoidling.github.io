@@ -17,10 +17,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "CV.md"}
+  - {file: "Projects.md"}
+  - {file: "About_me.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "mailto:marc-daniel.hagel@rwth-aachen.de"}
   - {title: Github, icon: github, url: "https://github.com/redvoidling/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
