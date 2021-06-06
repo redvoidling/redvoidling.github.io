@@ -1,3 +1,9 @@
+---
+title: "Projects"
+permalink: "/portfolio/"
+layout: page
+---
+
 # This is the Start of my Portfolio Page
 
 ## Planned Projects:
